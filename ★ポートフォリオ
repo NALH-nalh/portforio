@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>NALF ポートフォリオ</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="javascript.js" defer></script>
+</head>
+<body>
+    <header>
+        <div id="maxheader"><!-- 親 -->
+            <div id="logotitle"><!-- 子 -->
+                <img src="logo.png" id="logo" alt="ロゴマーク"><!-- 孫 -->
+                <div id="title">NALH</div><!-- 孫 -->
+            </div>
+            <div id="freelance"><!-- 子 -->
+                    <div id ="free">フリーランス歴：</div><!-- 孫 -->
+                    <span id ="month">1</span>
+                    <p>か月</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="headerbar"><!-- 親 -->
+            <ul id="headerback"><!-- 子 -->
+                <li><a href="file:///C:/Users/tsuji/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/%E8%87%AA%E4%BD%9C/30000000_%E8%A9%A6%E4%BD%9C%EF%BC%91%EF%BC%99(%E7%B5%8C%E6%AD%B4)/index.html">経歴</a></li><!-- 孫 -->
+                <li><a href="file:///C:/Users/tsuji/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/%E8%87%AA%E4%BD%9C/30000000_%E8%A9%A6%E4%BD%9C%EF%BC%92%EF%BC%90(%E5%AE%9F%E7%B8%BE)/index.html">実績</a></li><!-- 孫 -->
+                <li><a href="file:///C:/Users/tsuji/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/%E8%87%AA%E4%BD%9C/30000000_%E8%A9%A6%E4%BD%9C%EF%BC%92%EF%BC%91(%E8%87%AA%E5%B7%B1PR)/index.html">自己PR</a></li><!-- 孫 -->
+                <li><a href="file:///C:/Users/tsuji/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/%E8%87%AA%E4%BD%9C/30000000_%E8%A9%A6%E4%BD%9C%EF%BC%92%EF%BC%92(SNS)/index.html">SNS</a></li><!-- 孫 -->
+                </ul>
+            </div> 
+    </header>
+
+    <main>
+        <div id="back">
+            <h1 id ="sokyu">ホームページやアプリの作成承ります</h1>
+            <h2 id ="sabu">デザイン作成から完成まで、一括対応可</h2>
+            <ul id ="skill">
+            <li id ="skill1">◆プログラミング(HTML CSS JAVASCRIPT)</li>
+            <a id="skill2" href="">参考資料：作成中</a>
+            <li id ="skill3">◆画像・動画編集(adobe Premiere Pro)</li>
+            <a id="skill4" href="">参考資料：作成中</a>
+            </ul>
+        </div>
+    </main>
+</body>
+</html>
